@@ -1,0 +1,13 @@
+<VTKFile type="vtkMultiBlockDataSet" version="1.0" byte_order="LittleEndian" header_type="UInt64">
+  <vtkMultiBlockDataSet>
+    <DataSet index="0" name="internalMesh" file="output_test/output_test_0_0.vtu"/>
+  </vtkMultiBlockDataSet>
+  <FieldData>
+    <DataArray type="Int8" Name="CasePath" NumberOfTuples="75" format="binary" RangeMin="0" RangeMax="121">
+      SwAAAAAAAAAvVXNlcnMvcGVyZTA2Ni9Qcm9qZWN0cy9zcGlrYW4vc3JjL1Rlc3Q3X0Nhdml0eV9DeWxpbmRlcl8yRC9vcGVuZm9hbV9jYXNlLwA=
+    </DataArray>
+    <DataArray type="Float64" Name="TimeValue" NumberOfTuples="1" format="binary" RangeMin="745" RangeMax="745">
+      CAAAAAAAAAAAAAAAAEiHQA==
+    </DataArray>
+  </FieldData>
+</VTKFile>

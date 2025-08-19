@@ -1,0 +1,19 @@
+#!/bin/sh
+cd "${0%/*}" || exit 1    # Run from this directory
+
+# Source tutorial run functions
+. $WM_PROJECT_DIR/bin/tools/RunFunctions
+
+# Create the base mesh
+runApplication blockMesh
+
+# Mesh the cylinder using snappyHexMesh
+runApplication snappyHexMesh -overwrite
+
+# Check the mesh
+runApplication checkMesh
+
+# Run the steady-state solver
+runApplication $(getApplication)
+
+# ----------------------------------------------------------------- end-of-file
