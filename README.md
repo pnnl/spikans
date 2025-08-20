@@ -1,5 +1,7 @@
 # SPIKANs: Separable Physics-Informed Kolmogorov-Arnold Networks
 
+![SPIKAN Architecture Diagram](SPIKAN_diagram.png)
+
 ## Overview
 
 **SPIKANs (Separable Physics-Informed Kolmogorov-Arnold Networks)** is a novel neural network architecture that combines the power of Physics-Informed Neural Networks (PINNs) with the efficiency of separable representations and the interpretability of Kolmogorov-Arnold Networks (KANs).
