@@ -65,7 +65,7 @@ packaging==24.1
 pandocfilters==1.5.1
 parso==0.8.4
 pexpect==4.9.0
-pillow==11.0.0
+pillow==13.0.0
 platformdirs==4.3.6
 prompt_toolkit==3.0.48
 protobuf==5.28.3
