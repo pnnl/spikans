@@ -53,7 +53,7 @@ ml-dtypes==0.4.1
 msgpack==1.1.0
 namex==0.0.8
 nbclient==0.10.0
-nbconvert==7.16.4
+nbconvert==7.17.2
 nbformat==5.10.4
 nest-asyncio==1.6.0
 numpy==2.0.2
