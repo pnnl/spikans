@@ -50,7 +50,7 @@ matplotlib-inline==0.1.7
 mdurl==0.1.2
 mistune==3.0.2
 ml-dtypes==0.4.1
-msgpack==1.1.0
+msgpack==1.2.3
 namex==0.0.8
 nbclient==0.10.0
 nbconvert==7.16.4
